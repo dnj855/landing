@@ -1,0 +1,19 @@
+.banner {
+  background-position: center;
+  background-size: cover;
+  margin: 0;
+  padding: calc(20vh / 2) 0;
+}
+
+.banner h1 {
+  color: #e50a14;
+  opacity: 0.9;
+  font-size: 3rem;
+}
+
+.banner p {
+  color: rgb(234, 234, 234);
+  font-size: 1.7rem;
+  font-style: italic;
+  margin-bottom: 50px;
+}

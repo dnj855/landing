@@ -1,0 +1,14 @@
+.networks-container {
+  display: flex;
+  font-size: 1.5rem;
+  gap: 16px;
+}
+
+.networks-container i {
+  transition: transform 0.3s ease;
+}
+
+.networks-container i:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}

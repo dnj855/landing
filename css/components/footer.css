@@ -1,0 +1,21 @@
+footer {
+  background-color: #e50a14;
+  margin-top: 5rem;
+  padding: 40px 0;
+  font-size: 1rem;
+  color: #131313;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+footer a {
+  color: #131313;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}

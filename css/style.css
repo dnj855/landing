@@ -1,0 +1,44 @@
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap");
+
+/* Fontawesome */
+@import url("https://use.fontawesome.com/releases/v6.1.2/css/all.css");
+
+/* Components */
+@import url(components/container.css);
+@import url(components/banner.css);
+@import url(components/button.css);
+@import url(components/card.css);
+@import url(components/footer.css);
+@import url(components/networks.css);
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: "Source Serif 4", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+}
+a {
+  text-decoration: none;
+}
+.text-center {
+  text-align: center;
+}
+h2 {
+  margin: 3rem;
+}
+
+/* Custom design below! */
+
+/* Main color : E50A14 / rgb(229,10,20) */

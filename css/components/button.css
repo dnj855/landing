@@ -1,0 +1,17 @@
+.btn-primary {
+  background-color: #e50a14;
+  padding: 16px 24px;
+  color: white;
+  font-weight: 500;
+  font-size: 1.2em;
+  opacity: 0.9;
+  border-radius: 15px;
+  font-family: "Oswald", sans-serif;
+  display: inline-block;
+  transition: opacity, transform 0.3s ease;
+}
+
+.btn-primary:hover {
+  opacity: 1;
+  transform: scale(1.05);
+}
